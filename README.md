@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Fraggr12
-- 👀 I’m interested in creating games and managing a community.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in creating games and programs.
